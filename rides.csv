@@ -1,0 +1,6 @@
+ride_id,driver_id,source,destination,price,distance_km
+1,101,Downtown,Airport,120,15
+2,102,Station,Downtown,80,6
+3,101,Airport,Downtown,130,15
+4,103,Mall,Station,100,8
+5,102,Downtown,Mall,90,10
